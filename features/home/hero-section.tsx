@@ -54,7 +54,7 @@ const HeroSection = () => {
             <div className="text-center">
               <motion.h1
                 variants={itemVariant}
-                className="text-midnight font-bold xl:text-[55px] lg:text-[50px] xl:leading-[60px] lg:leading-[55px] sm:text-4xl text-3xl leading-[40px] tracking-wide"
+                className="text-midnight font-bold lg:text-[50px] xl:leading-[60px] lg:leading-[55px] sm:text-4xl text-3xl leading-[40px] tracking-wide"
               >
                 Welcome to the Bazarify Marketplace
               </motion.h1>
