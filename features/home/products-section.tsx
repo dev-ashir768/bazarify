@@ -71,7 +71,7 @@ const ProductsSection = () => {
       <section className="container w-full md:py-28 py-20 space-y-10">
         <div className="text-center mb-10">
           <h2 className="text-midnight font-bold sm:text-[48px] sm:leading-[55px] text-3xl sm:tracking-wide mb-4">
-            Our Product
+            Our Products
           </h2>
           <p className="text-charcoal font-light sm:text-lg text-base">
             Searching for something special, see our list of featured products

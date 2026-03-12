@@ -135,12 +135,12 @@
   }
 
   @variant xl {
-    padding-inline: 2rem;
+    padding-inline: 1.5rem;
     max-width: 1200px;
   }
 
   @variant 2xl {
-    padding-inline: 2rem;
+    padding-inline: 1rem;
     max-width: 1440px;
   }
 }
