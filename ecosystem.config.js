@@ -2,8 +2,8 @@ module.exports = {
   apps: [
     {
       name: "bazarify",
-      script: "node",
-      args: "run start",
+      script: "npm",
+      args: "start",
       cwd: "./",
       instances: 1,
       exec_mode: "fork",
@@ -23,4 +23,3 @@ module.exports = {
     },
   ],
 };
-  
