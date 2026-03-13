@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: "bazarify",
-      script: "bun",
+      script: "node",
       args: "run start",
       cwd: "./",
       instances: 1,
@@ -23,3 +23,4 @@ module.exports = {
     },
   ],
 };
+  
